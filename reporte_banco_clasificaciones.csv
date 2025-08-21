@@ -1,0 +1,23 @@
+banco,clasificacion_ISO_25010,cantidad
+BCP,accountability,105
+BCP,authenticity,510
+BCP,confidentiality,36
+BCP,integrity,44
+BCP,non_repudiation,14
+BCP,not_applicable,1487
+BCP,resistance,22
+BN,accountability,19
+BN,authenticity,527
+BN,confidentiality,20
+BN,integrity,44
+BN,non_repudiation,5
+BN,not_applicable,1843
+BN,resistance,23
+INTERBANK, resistance,1
+INTERBANK,accountability,126
+INTERBANK,authenticity,656
+INTERBANK,confidentiality,8
+INTERBANK,integrity,130
+INTERBANK,non_repudiation,3
+INTERBANK,not_applicable,1452
+INTERBANK,resistance,65
